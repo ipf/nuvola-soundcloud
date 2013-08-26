@@ -73,7 +73,7 @@
 		// Submit data to Nuvola backend
 		Nuvola.updateSong(song, artist, album, album_art, state);
 
-
+		// hide welcome message
 		$('.badge_hey').hide();
 
 		// Update actions
