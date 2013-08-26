@@ -58,7 +58,7 @@
 		var can_thumbs_down = false;
 		var album_art = null;
 		var song = $('.playing .soundTitle__title').text();
-		var artist = $('.soundTitle__username').text();
+		var artist = $('.playing .soundTitle__username').text();
 		var album = null;
 		
 		
